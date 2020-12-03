@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+figure {
+  display: inline-block;
+  position: relative;
+}
+
+.figure__ribbon {
+  width: 55px;
+  position: absolute;
+  bottom: 23%;
+  right: 5%;
+}
+
+/*# sourceMappingURL=main.css.map */

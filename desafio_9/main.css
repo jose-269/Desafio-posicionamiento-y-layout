@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 10%;
+}
+
+div, h1, h2, aside, nav, footer, header, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+.nav {
+  background: #000;
+  padding: 0.5rem 1rem 0.2rem 1rem;
+  color: #fff;
+}
+
+footer {
+  background-color: gray;
+  height: 28px;
+  text-align: center;
+}
+footer p {
+  margin: 0;
+  color: #fff;
+  padding-top: 3px;
+}
+
+main {
+  padding: 20px 30px 0px 275px;
+}
+main h2 {
+  margin-bottom: 1rem;
+}
+main p {
+  margin-top: 0;
+}
+
+aside {
+  background-color: lightgray;
+  float: left;
+  padding: 20px 150px 14px 15px;
+}
+aside h2 {
+  margin-bottom: 1rem;
+}
+aside ul {
+  padding-left: 45px;
+}
+aside a {
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,13 @@
+/** {
+    box-sizing: border-box;
+}*/
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.figure__item, .figure__ribbon {
+  position: absolute;
+}
+
+/*# sourceMappingURL=main.css.map */

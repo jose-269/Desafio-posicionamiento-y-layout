@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  background-color: #B0CCAB;
+  padding: 50px;
+  
+}
+.main__paragraph {
+  position: relative;
+  left: 40px;
+}
+
+/*# sourceMappingURL=main.css.map */

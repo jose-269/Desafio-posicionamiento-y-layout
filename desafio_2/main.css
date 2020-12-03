@@ -1,27 +1,32 @@
 html, body {
-    margin: 0;
-    padding: 0;
-    }
-    .square {
-    height: 200px;
-    width: 200px;
-    }
-    .square__red {
-    background-color: rgba(255, 0, 0, .5);
-    z-index: -10;
-    }
-    .square__green {
-    background-color: rgba(0, 255, 0, .5);
-    left: 25px;
-    position: absolute;
-    top: 25px;
-    z-index: -20;
-    }
-    .square__blue {
-    background-color: rgba(0, 0, 255, .5);
-    left: 50px;
-    position: absolute;
-    top: 50px;
-    z-index: -30;
-    }
-    
+  margin: 0;
+  padding: 0;
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+}
+
+.square__red {
+  background-color: rgba(255, 0, 0, 0.5);
+  z-index: -10;
+}
+
+.square__green {
+  background-color: rgba(0, 255, 0, 0.5);
+  left: 25px;
+  position: absolute;
+  top: 25px;
+  z-index: -20;
+}
+
+.square__blue {
+  background-color: rgba(0, 0, 255, 0.5);
+  left: 50px;
+  position: absolute;
+  top: 50px;
+  z-index: -30;
+}
+
+/*# sourceMappingURL=main.css.map */
