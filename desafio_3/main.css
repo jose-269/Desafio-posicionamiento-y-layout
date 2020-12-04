@@ -21,18 +21,24 @@ h4 {
   position: relative;
 }
 
-.banderas__container__esp-rojo {
-  width: 100%;
-  height: 100%;
-  background-color: red;
+/*.banderas__container__esp-rojo{
+    width: 100%;
+    height: 100%;
+    background-color: red;
 }
 
 .banderas__container__esp-amarillo {
-  background-color: yellow;
-  width: 100%;
-  height: 40%;
-  position: absolute;
-  top: 30%;
+    background-color: yellow;
+    width: 100%;
+    height: 40%;
+    position: absolute;
+    top: 30%;
+
+}*/
+.banderas__container__esp-rojo {
+  width: 100% x;
+  height: 100%;
+  background-image: linear-gradient(red 30%, yellow 30%, yellow 70%, red 30%);
 }
 
 .banderas__container__din-rojo {
